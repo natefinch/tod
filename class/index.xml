@@ -3,7 +3,7 @@
   <channel>
       <title>Classes on Tyranny of Dragons </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://tod.npf.io/class/index.xml/</link>
+    <link>http://npf.io/tod/class/index.xml/</link>
     <language>en-us</language>
     <author>Nate Finch</author>
     <copyright>Nate Finch</copyright>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Monk</title>
-      <link>http://tod.npf.io/class/monk/</link>
+      <link>http://npf.io/tod/class/monk/</link>
       <pubDate>Fri, 29 Aug 2014 06:55:00 EDT</pubDate>
       <author>Nate Finch</author>
-      <guid>http://tod.npf.io/class/monk/</guid>
+      <guid>http://npf.io/tod/class/monk/</guid>
       <description>&lt;p&gt;Example Monks:&lt;/p&gt;
 
 &lt;p&gt;{{% pc sabian %}}&lt;/p&gt;

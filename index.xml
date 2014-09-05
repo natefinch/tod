@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on Tyranny of Dragons </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://tod.npf.io/index.xml/</link>
+    <link>http://npf.io/tod/index.xml/</link>
     <language>en-us</language>
     <author>Nate Finch</author>
     <copyright>Nate Finch</copyright>
@@ -11,19 +11,19 @@
     
     <item>
       <title>Cult of the Dragon</title>
-      <link>http://tod.npf.io/organization/cult-of-the-dragon/</link>
+      <link>http://npf.io/tod/organization/cult-of-the-dragon/</link>
       <pubDate>Fri, 05 Sep 2014 15:29:42 EDT</pubDate>
       <author>Nate Finch</author>
-      <guid>http://tod.npf.io/organization/cult-of-the-dragon/</guid>
+      <guid>http://npf.io/tod/organization/cult-of-the-dragon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rules</title>
-      <link>http://tod.npf.io/rules/</link>
+      <link>http://npf.io/tod/rules/</link>
       <pubDate>Fri, 05 Sep 2014 14:55:32 EDT</pubDate>
       <author>Nate Finch</author>
-      <guid>http://tod.npf.io/rules/</guid>
+      <guid>http://npf.io/tod/rules/</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;Character Generation&lt;/h2&gt;
@@ -46,53 +46,53 @@
     
     <item>
       <title>Castellan Escobert the Red</title>
-      <link>http://tod.npf.io/npc/ecobert/</link>
+      <link>http://npf.io/tod/npc/ecobert/</link>
       <pubDate>Fri, 05 Sep 2014 07:55:58 EDT</pubDate>
       <author>Nate Finch</author>
-      <guid>http://tod.npf.io/npc/ecobert/</guid>
+      <guid>http://npf.io/tod/npc/ecobert/</guid>
       <description>&lt;p&gt;Escobert is a shield dwarf with knotted, tangled, bright red hair.  He is in
-charge of the defense of the keep at &lt;a href=&#34;http://tod.npf.io/location/greenest/&#34;&gt;Greenest&lt;/a&gt;.&lt;/p&gt;
+charge of the defense of the keep at &lt;a href=&#34;http://npf.io/tod/location/greenest/&#34;&gt;Greenest&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>beginning</title>
-      <link>http://tod.npf.io/adventure-log/2014/09/04/</link>
+      <link>http://npf.io/tod/adventure-log/2014/09/04/</link>
       <pubDate>Thu, 04 Sep 2014 06:52:34 EDT</pubDate>
       <author>Nate Finch</author>
-      <guid>http://tod.npf.io/adventure-log/2014/09/04/</guid>
+      <guid>http://npf.io/tod/adventure-log/2014/09/04/</guid>
       <description>&lt;p&gt;This is the beginning of the adventure log.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Greenest</title>
-      <link>http://tod.npf.io/location/greenest/</link>
+      <link>http://npf.io/tod/location/greenest/</link>
       <pubDate>Thu, 04 Sep 2014 06:47:31 EDT</pubDate>
       <author>Nate Finch</author>
-      <guid>http://tod.npf.io/location/greenest/</guid>
+      <guid>http://npf.io/tod/location/greenest/</guid>
       <description>&lt;p&gt;Greenest is a city on the Sword Coast.&lt;/p&gt;
 
-&lt;p&gt;The governor is &lt;a href=&#34;http://tod.npf.io/npc/nighthill/&#34;&gt;Tarbaw Nighthill&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The governor is &lt;a href=&#34;http://npf.io/tod/npc/nighthill/&#34;&gt;Tarbaw Nighthill&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Tarbaw Nighthill</title>
-      <link>http://tod.npf.io/npc/nighthill/</link>
+      <link>http://npf.io/tod/npc/nighthill/</link>
       <pubDate>Thu, 04 Sep 2014 06:47:18 EDT</pubDate>
       <author>Nate Finch</author>
-      <guid>http://tod.npf.io/npc/nighthill/</guid>
-      <description>&lt;p&gt;Tarbaw Nighthill is the Governor of &lt;a href=&#34;http://tod.npf.io/location/greenest/&#34;&gt;Greenest&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://npf.io/tod/npc/nighthill/</guid>
+      <description>&lt;p&gt;Tarbaw Nighthill is the Governor of &lt;a href=&#34;http://npf.io/tod/location/greenest/&#34;&gt;Greenest&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Monk</title>
-      <link>http://tod.npf.io/class/monk/</link>
+      <link>http://npf.io/tod/class/monk/</link>
       <pubDate>Fri, 29 Aug 2014 06:55:00 EDT</pubDate>
       <author>Nate Finch</author>
-      <guid>http://tod.npf.io/class/monk/</guid>
+      <guid>http://npf.io/tod/class/monk/</guid>
       <description>&lt;p&gt;Example Monks:&lt;/p&gt;
 
 &lt;p&gt;{{% pc sabian %}}&lt;/p&gt;
@@ -103,11 +103,11 @@ charge of the defense of the keep at &lt;a href=&#34;http://tod.npf.io/location/
     
     <item>
       <title>Sabian Two-Swords</title>
-      <link>http://tod.npf.io/pc/sabian/</link>
+      <link>http://npf.io/tod/pc/sabian/</link>
       <pubDate>Thu, 28 Aug 2014 16:59:43 EDT</pubDate>
       <author>Nate Finch</author>
-      <guid>http://tod.npf.io/pc/sabian/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://tod.npf.io/pc/sabian/&#34;&gt;Sabian Two-Swords&lt;/a&gt;&lt;/p&gt;
+      <guid>http://npf.io/tod/pc/sabian/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://npf.io/tod/pc/sabian/&#34;&gt;Sabian Two-Swords&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

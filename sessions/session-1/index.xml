@@ -3,7 +3,7 @@
   <channel>
       <title>Session-1 on Tyranny of Dragons </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://tod.npf.io/sessions/session-1/index.xml/</link>
+    <link>http://npf.io/tod/sessions/session-1/index.xml/</link>
     <language>en-us</language>
     <author>Nate Finch</author>
     <copyright>Nate Finch</copyright>
@@ -11,10 +11,10 @@
     
     <item>
       <title>beginning</title>
-      <link>http://tod.npf.io/adventure-log/2014/09/04/</link>
+      <link>http://npf.io/tod/adventure-log/2014/09/04/</link>
       <pubDate>Thu, 04 Sep 2014 06:52:34 EDT</pubDate>
       <author>Nate Finch</author>
-      <guid>http://tod.npf.io/adventure-log/2014/09/04/</guid>
+      <guid>http://npf.io/tod/adventure-log/2014/09/04/</guid>
       <description>&lt;p&gt;This is the beginning of the adventure log.&lt;/p&gt;
 </description>
     </item>

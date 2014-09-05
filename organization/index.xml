@@ -3,7 +3,7 @@
   <channel>
       <title>Organizations on Tyranny of Dragons </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://tod.npf.io/organization/index.xml/</link>
+    <link>http://npf.io/tod/organization/index.xml/</link>
     <language>en-us</language>
     <author>Nate Finch</author>
     <copyright>Nate Finch</copyright>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Cult of the Dragon</title>
-      <link>http://tod.npf.io/organization/cult-of-the-dragon/</link>
+      <link>http://npf.io/tod/organization/cult-of-the-dragon/</link>
       <pubDate>Fri, 05 Sep 2014 15:29:42 EDT</pubDate>
       <author>Nate Finch</author>
-      <guid>http://tod.npf.io/organization/cult-of-the-dragon/</guid>
+      <guid>http://npf.io/tod/organization/cult-of-the-dragon/</guid>
       <description></description>
     </item>
     
