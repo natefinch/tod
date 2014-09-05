@@ -7,6 +7,7 @@
 _obj
 _test
 production
+public
 
 # Architecture specific extensions/prefixes
 *.[568vq]

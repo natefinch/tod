@@ -1,4 +1,4 @@
-baseurl = "http://npf.io/tod/"
+baseurl = "http://npf.io/"
 languageCode = "en-us"
 title = "Tyranny of Dragons"
 theme = "hyde"
@@ -11,9 +11,6 @@ copyright = "Nate Finch"
 	adventure-log = "/adventure-log/:year/:month/:day/"
 
 [taxonomies]
-	location = "locations"
-	NPC = "NPCs"
-	session = "sessions"
 
 
 [params]
