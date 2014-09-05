@@ -1,7 +1,4 @@
 +++
-Categories = []
-Description = ""
-Tags = []
 date = "2014-09-05T07:55:58-04:00"
 title = "Castellan Escobert the Red"
 locations = ["greenest"]
