@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Pcs on Tyranny of Dragons </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://tod.npf.io/pc/index.xml/</link>
+    <language>en-us</language>
+    <author>Nate Finch</author>
+    <copyright>Nate Finch</copyright>
+    <updated>Thu, 28 Aug 2014 16:59:43 EDT</updated>
+    
+    <item>
+      <title>Sabian Two-Swords</title>
+      <link>http://tod.npf.io/pc/sabian/</link>
+      <pubDate>Thu, 28 Aug 2014 16:59:43 EDT</pubDate>
+      <author>Nate Finch</author>
+      <guid>http://tod.npf.io/pc/sabian/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://tod.npf.io/pc/sabian/&#34;&gt;Sabian Two-Swords&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

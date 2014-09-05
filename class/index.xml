@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Classes on Tyranny of Dragons </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://tod.npf.io/class/index.xml/</link>
+    <language>en-us</language>
+    <author>Nate Finch</author>
+    <copyright>Nate Finch</copyright>
+    <updated>Fri, 29 Aug 2014 06:55:00 EDT</updated>
+    
+    <item>
+      <title>Monk</title>
+      <link>http://tod.npf.io/class/monk/</link>
+      <pubDate>Fri, 29 Aug 2014 06:55:00 EDT</pubDate>
+      <author>Nate Finch</author>
+      <guid>http://tod.npf.io/class/monk/</guid>
+      <description>&lt;p&gt;Example Monks:&lt;/p&gt;
+
+&lt;p&gt;{{% pc sabian %}}&lt;/p&gt;
+
+&lt;p&gt;{{% abc %}}&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

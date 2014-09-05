@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Organizations on Tyranny of Dragons </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://tod.npf.io/organization/index.xml/</link>
+    <language>en-us</language>
+    <author>Nate Finch</author>
+    <copyright>Nate Finch</copyright>
+    <updated>Fri, 05 Sep 2014 15:29:42 EDT</updated>
+    
+    <item>
+      <title>Cult of the Dragon</title>
+      <link>http://tod.npf.io/organization/cult-of-the-dragon/</link>
+      <pubDate>Fri, 05 Sep 2014 15:29:42 EDT</pubDate>
+      <author>Nate Finch</author>
+      <guid>http://tod.npf.io/organization/cult-of-the-dragon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
