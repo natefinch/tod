@@ -17,7 +17,7 @@
       </a>
     </h1>
 
-    {{if not .Date.IsZero}}<span class="post-date">{{ .Date.Format "Jan 2, 2006" }}</span>{{emd}}
+    {{if not .Date.IsZero}}<span class="post-date">{{ .Date.Format "Jan 2, 2006" }}</span>{{end}}
 
     {{ .Summary }}
   </div>
