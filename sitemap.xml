@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://npf.io/</loc>
+    <loc>http://npf.io/tod/</loc>
     <lastmod>2014-09-06T06:52:34-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://npf.io/adventure-log/2014/09/06/</loc>
+    <loc>http://npf.io/tod/adventure-log/2014/09/06/</loc>
     <lastmod>2014-09-06T06:52:34-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://npf.io/location/greenest/</loc>
+    <loc>http://npf.io/tod/npc/nighthill/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://npf.io/npc/ecobert/</loc>
+    <loc>http://npf.io/tod/location/greenest/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://npf.io/npc/nighthill/</loc>
+    <loc>http://npf.io/tod/npc/ecobert/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://npf.io/organization/the-bad-guys/</loc>
+    <loc>http://npf.io/tod/organization/the-bad-guys/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://npf.io/pc/sabian/</loc>
+    <loc>http://npf.io/tod/pc/sabian/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://npf.io/rules/</loc>
+    <loc>http://npf.io/tod/rules/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
