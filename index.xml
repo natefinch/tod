@@ -22,16 +22,6 @@ what has happened and what is going on in the world.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Tarbaw Nighthill</title>
-      <link>http://npf.io/tod/npc/nighthill/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      <author>Nate Finch</author>
-      <guid>http://npf.io/tod/npc/nighthill/</guid>
-      <description>&lt;p&gt;Tarbaw Nighthill is the Governor of &lt;a href=&#34;http://npf.io/tod/location/greenest/&#34;&gt;Greenest&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Greenest</title>
       <link>http://npf.io/tod/location/greenest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -44,13 +34,12 @@ what has happened and what is going on in the world.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Castellan Escobert the Red</title>
-      <link>http://npf.io/tod/npc/ecobert/</link>
+      <title>Tarbaw Nighthill</title>
+      <link>http://npf.io/tod/npc/nighthill/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       <author>Nate Finch</author>
-      <guid>http://npf.io/tod/npc/ecobert/</guid>
-      <description>&lt;p&gt;Escobert is a shield dwarf with knotted, tangled, bright red hair.  He is in
-charge of the defense of the keep at &lt;a href=&#34;http://npf.io/tod/location/greenest/&#34;&gt;Greenest&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://npf.io/tod/npc/nighthill/</guid>
+      <description>&lt;p&gt;Tarbaw Nighthill is the Governor of &lt;a href=&#34;http://npf.io/tod/location/greenest/&#34;&gt;Greenest&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -61,6 +50,17 @@ charge of the defense of the keep at &lt;a href=&#34;http://npf.io/tod/location/
       <author>Nate Finch</author>
       <guid>http://npf.io/tod/organization/the-bad-guys/</guid>
       <description>&lt;p&gt;This is just a placeholder.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Castellan Escobert the Red</title>
+      <link>http://npf.io/tod/npc/ecobert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      <author>Nate Finch</author>
+      <guid>http://npf.io/tod/npc/ecobert/</guid>
+      <description>&lt;p&gt;Escobert is a shield dwarf with knotted, tangled, bright red hair.  He is in
+charge of the defense of the keep at &lt;a href=&#34;http://npf.io/tod/location/greenest/&#34;&gt;Greenest&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

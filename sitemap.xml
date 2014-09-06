@@ -13,22 +13,22 @@
   </url>
   
   <url>
-    <loc>http://npf.io/tod/npc/nighthill/</loc>
-    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://npf.io/tod/location/greenest/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://npf.io/tod/npc/ecobert/</loc>
+    <loc>http://npf.io/tod/npc/nighthill/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://npf.io/tod/organization/the-bad-guys/</loc>
+    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://npf.io/tod/npc/ecobert/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
