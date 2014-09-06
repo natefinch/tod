@@ -3,30 +3,30 @@
   <channel>
       <title>Npcs on Tyranny of Dragons </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://npf.io/tod/npc/index.xml/</link>
+    <link>http://npf.io/npc/index.xml/</link>
     <language>en-us</language>
     <author>Nate Finch</author>
     <copyright>Nate Finch</copyright>
-    <updated>Fri, 05 Sep 2014 07:55:58 EDT</updated>
+    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
     
     <item>
       <title>Castellan Escobert the Red</title>
-      <link>http://npf.io/tod/npc/ecobert/</link>
-      <pubDate>Fri, 05 Sep 2014 07:55:58 EDT</pubDate>
+      <link>http://npf.io/npc/ecobert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       <author>Nate Finch</author>
-      <guid>http://npf.io/tod/npc/ecobert/</guid>
+      <guid>http://npf.io/npc/ecobert/</guid>
       <description>&lt;p&gt;Escobert is a shield dwarf with knotted, tangled, bright red hair.  He is in
-charge of the defense of the keep at &lt;a href=&#34;http://npf.io/tod/location/greenest/&#34;&gt;Greenest&lt;/a&gt;.&lt;/p&gt;
+charge of the defense of the keep at &lt;a href=&#34;http://npf.io/location/greenest/&#34;&gt;Greenest&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Tarbaw Nighthill</title>
-      <link>http://npf.io/tod/npc/nighthill/</link>
-      <pubDate>Thu, 04 Sep 2014 06:47:18 EDT</pubDate>
+      <link>http://npf.io/npc/nighthill/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       <author>Nate Finch</author>
-      <guid>http://npf.io/tod/npc/nighthill/</guid>
-      <description>&lt;p&gt;Tarbaw Nighthill is the Governor of &lt;a href=&#34;http://npf.io/tod/location/greenest/&#34;&gt;Greenest&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://npf.io/npc/nighthill/</guid>
+      <description>&lt;p&gt;Tarbaw Nighthill is the Governor of &lt;a href=&#34;http://npf.io/location/greenest/&#34;&gt;Greenest&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
