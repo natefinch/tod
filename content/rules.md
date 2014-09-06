@@ -1,6 +1,4 @@
 +++
-Description = ""
-date = "2014-09-05T14:55:32-04:00"
 menu = "main"
 title = "Rules"
 +++
