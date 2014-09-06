@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Recent Content on Tyranny of Dragons </title>
+      <title>Tyranny of Dragons</title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
     <link>http://npf.io/tod/index.xml/</link>
     <language>en-us</language>
     <author>Nate Finch</author>
-    <copyright>Nate Finch</copyright>
+    <copyright>2014 Nate Finch</copyright>
     <updated>Sat, 06 Sep 2014 06:52:34 EDT</updated>
+    
     
     <item>
       <title>Beginning</title>
@@ -21,84 +22,18 @@ what has happened and what is going on in the world.&lt;/p&gt;
 </description>
     </item>
     
-    <item>
-      <title>Greenest</title>
-      <link>http://npf.io/tod/location/greenest/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      <author>Nate Finch</author>
-      <guid>http://npf.io/tod/location/greenest/</guid>
-      <description>&lt;p&gt;Greenest is a city on the Sword Coast.&lt;/p&gt;
-
-&lt;p&gt;The governor is &lt;a href=&#34;http://npf.io/tod/npc/nighthill/&#34;&gt;Tarbaw Nighthill&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
     
-    <item>
-      <title>Tarbaw Nighthill</title>
-      <link>http://npf.io/tod/npc/nighthill/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      <author>Nate Finch</author>
-      <guid>http://npf.io/tod/npc/nighthill/</guid>
-      <description>&lt;p&gt;Tarbaw Nighthill is the Governor of &lt;a href=&#34;http://npf.io/tod/location/greenest/&#34;&gt;Greenest&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
-    <item>
-      <title>The Bad Guys</title>
-      <link>http://npf.io/tod/organization/the-bad-guys/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      <author>Nate Finch</author>
-      <guid>http://npf.io/tod/organization/the-bad-guys/</guid>
-      <description>&lt;p&gt;This is just a placeholder.&lt;/p&gt;
-</description>
-    </item>
     
-    <item>
-      <title>Castellan Escobert the Red</title>
-      <link>http://npf.io/tod/npc/ecobert/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      <author>Nate Finch</author>
-      <guid>http://npf.io/tod/npc/ecobert/</guid>
-      <description>&lt;p&gt;Escobert is a shield dwarf with knotted, tangled, bright red hair.  He is in
-charge of the defense of the keep at &lt;a href=&#34;http://npf.io/tod/location/greenest/&#34;&gt;Greenest&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
-    <item>
-      <title>Sabian Two-Swords</title>
-      <link>http://npf.io/tod/pc/sabian/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      <author>Nate Finch</author>
-      <guid>http://npf.io/tod/pc/sabian/</guid>
-      <description>&lt;p&gt;Sabian is just a placeholder.&lt;/p&gt;
-</description>
-    </item>
     
-    <item>
-      <title>Rules</title>
-      <link>http://npf.io/tod/rules/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      <author>Nate Finch</author>
-      <guid>http://npf.io/tod/rules/</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Character Generation&lt;/h2&gt;
-
-&lt;p&gt;4d6, drop the lowest 6 times.  If you don&amp;rsquo;t like your scores, you can use the default array (15 14 13 12 10 8).&lt;/p&gt;
-
-&lt;p&gt;Don&amp;rsquo;t be evil.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Optional Rules&lt;/h2&gt;
-
-&lt;p&gt;We will be using feats.&lt;/p&gt;
-
-&lt;p&gt;Humans may take the variant abilities: +1 to two stats and a feat at first level.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_2&#34;&gt;House Rules&lt;/h2&gt;
-
-&lt;p&gt;None, so far.&lt;/p&gt;
-</description>
-    </item>
+    
+    
+    
+    
+    
+    
+    
     
   </channel>
 </rss>
