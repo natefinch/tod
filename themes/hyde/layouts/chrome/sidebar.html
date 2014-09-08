@@ -13,10 +13,10 @@
         <li><a href="{{.Url}}"> {{ .Name }} </a></li>
       {{end}}
       <br/>
-      <li><a href="{{.Site.BaseUrl}}/pc">PCs</a></li>
-      <li><a href="{{.Site.BaseUrl}}/npc">NPCs</a></li>
-      <li><a href="{{.Site.BaseUrl}}/location">Locations</a></li>
-      <li><a href="{{.Site.BaseUrl}}/organization">Organizations</a></li>
+      <li><a href="{{.Site.BaseUrl}}/pcs">PCs</a></li>
+      <li><a href="{{.Site.BaseUrl}}/npcs">NPCs</a></li>
+      <li><a href="{{.Site.BaseUrl}}/locations">Locations</a></li>
+      <li><a href="{{.Site.BaseUrl}}/organizations">Organizations</a></li>
     </ul>
 
     <p>{{ with .Site.Params.Copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}}. All rights reserved. {{end}}</p>
