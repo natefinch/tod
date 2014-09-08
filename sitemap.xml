@@ -3,8 +3,38 @@
   
   <url>
     <loc>http://npf.io/tod/</loc>
-    <lastmod>2014-09-06T06:52:34-04:00</lastmod>
+    <lastmod>2014-09-07T07:53:21-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://npf.io/tod/pcs/krogan/</loc>
+    <lastmod>2014-09-07T07:53:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://npf.io/tod/npcs/linan/</loc>
+    <lastmod>2014-09-07T07:53:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://npf.io/tod/pcs/grogh/</loc>
+    <lastmod>2014-09-07T07:32:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://npf.io/tod/pcs/welby/</loc>
+    <lastmod>2014-09-07T07:14:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://npf.io/tod/pcs/bortels/</loc>
+    <lastmod>2014-09-07T06:58:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://npf.io/tod/adventure-log/2014/09/07/</loc>
+    <lastmod>2014-09-07T06:53:23-04:00</lastmod>
   </url>
   
   <url>
@@ -13,32 +43,27 @@
   </url>
   
   <url>
-    <loc>http://npf.io/tod/npc/ecobert/</loc>
+    <loc>http://npf.io/tod/npcs/nighthill/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://npf.io/tod/location/greenest/</loc>
+    <loc>http://npf.io/tod/locations/greenest/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://npf.io/tod/npc/nighthill/</loc>
-    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://npf.io/tod/organization/the-bad-guys/</loc>
-    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://npf.io/tod/pc/sabian/</loc>
+    <loc>http://npf.io/tod/organizations/the-bad-guys/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://npf.io/tod/rules/</loc>
+    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://npf.io/tod/npcs/escobert/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
