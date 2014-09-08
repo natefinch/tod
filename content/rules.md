@@ -9,6 +9,12 @@ title = "Rules"
 
 Don't be evil.
 
+## Roll Up a New Character
+
+If your character dies, you may make a new character with the same XP total.
+You must, however, reroll your stats (though you may still use the default array
+if you don't like your new rolls).
+
 ## Optional Rules
 
 We will be using feats.

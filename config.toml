@@ -1,4 +1,4 @@
-baseurl = "http://npf.io/tod/"
+baseurl = "http://npf.io/"
 languageCode = "en-us"
 title = "Tyranny of Dragons"
 theme = "hyde"
