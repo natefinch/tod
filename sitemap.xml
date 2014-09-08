@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>http://npf.io/tod/adventure-log/2014/09/07/</loc>
+    <loc>http://npf.io/tod/adventure-log/2014/09/07/session1/</loc>
     <lastmod>2014-09-07T06:53:23-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://npf.io/tod/adventure-log/2014/09/06/</loc>
+    <loc>http://npf.io/tod/adventure-log/2014/09/06/beginning/</loc>
     <lastmod>2014-09-06T06:52:34-04:00</lastmod>
   </url>
   
@@ -23,12 +23,12 @@
   </url>
   
   <url>
-    <loc>http://npf.io/tod/organizations/the-bad-guys/</loc>
+    <loc>http://npf.io/tod/npcs/nighthill/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://npf.io/tod/npcs/nighthill/</loc>
+    <loc>http://npf.io/tod/pcs/bortels/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,12 +43,12 @@
   </url>
   
   <url>
-    <loc>http://npf.io/tod/pcs/bortels/</loc>
+    <loc>http://npf.io/tod/pcs/krogan/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://npf.io/tod/pcs/krogan/</loc>
+    <loc>http://npf.io/tod/rules/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,7 +58,12 @@
   </url>
   
   <url>
-    <loc>http://npf.io/tod/rules/</loc>
+    <loc>http://npf.io/tod/locations/sword-coast/</loc>
+    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://npf.io/tod/organizations/cult-of-the-dragon/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
