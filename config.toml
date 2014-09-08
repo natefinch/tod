@@ -8,7 +8,7 @@ copyright = "Nate Finch"
 	name = "Nate Finch"
 
 [permalinks]
-	adventure-log = "/adventure-log/:year/:month/:day/"
+	adventure-log = "/adventure-log/:year/:month/:day/:filename/"
 
 [taxonomies]
 
