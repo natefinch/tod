@@ -1,5 +1,4 @@
 +++
-date = "2014-09-07T07:53:21-04:00"
 title = "Krogan, son of Djorn"
 +++
 

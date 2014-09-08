@@ -1,5 +1,4 @@
 +++
-date = "2014-09-07T07:14:45-04:00"
 title = "Welby Greenbottle"
 background = "Criminal"
 race = "Lightfoot Halfling"
