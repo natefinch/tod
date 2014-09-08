@@ -19,7 +19,7 @@
 
     {{if not .Date.IsZero}}<span class="post-date">{{ .Date.Format "Jan 2, 2006" }}</span>{{end}}
 
-    {{ .Summary }}
+    {{ .Content }}
   </div>
   {{end}}
   {{ end }}
