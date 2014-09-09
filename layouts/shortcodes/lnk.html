@@ -1,1 +1,1 @@
-{{$name := (printf "%s.md" (.Get 0))}}{{range .Page.Site.Pages}}{{if eq .File.FileName $name}}<a href="{{.Permalink}}">{{.LinkTitle}}</a>{{end}}{{end}}
+{{$name := .Get 0}}{{range .Page.Site.Pages}}{{if eq .File.Name $name}}<a href="{{.Permalink}}">{{.LinkTitle}}</a>{{end}}{{end}}

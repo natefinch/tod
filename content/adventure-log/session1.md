@@ -1,5 +1,5 @@
 +++
-date = "2014-09-07T06:53:23-04:00"
+date = "2014-09-06T06:53:23-04:00"
 title = "Session 1 - Greenest in Flames"
 +++
 
