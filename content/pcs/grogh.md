@@ -1,6 +1,6 @@
 +++
 title = "Grogh the Barbarian"
-
+death = "session1"
 +++
 
-Grogh is a Half-Orc Barbarian that died in {{$ lnk session1 %}}
+Grogh is a Half-Orc Barbarian.

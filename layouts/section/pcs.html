@@ -1,0 +1,34 @@
+{{ template "theme/chrome/head.html" . }}
+<body>
+
+{{ template "theme/chrome/sidebar.html" . }}
+    <div class="content container">
+    <h1>Player Characters</h1>
+    <ul class="posts">
+    {{ range .Data.Pages }}
+        {{if not .Params.death}}
+          <li><span><a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{end}}
+		{{end}} 
+      </span></li>
+  </ul>
+  <h1>Dead PCs</h1>
+    <ul class="posts">
+    {{$allpages := .Site.Pages}}
+    {{ range .Data.Pages }}
+      {{if .Params.death}}
+        <li><span><a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{$death := .Params.death}}
+        {{range $allpages}}
+          {{if eq .File.Name $death}}
+             <small>[Died in <a href="{{.Permalink}}">{{.LinkTitle}}</a>]</small>
+          {{end}}
+        {{end}} 
+        </span></li>
+      {{end}}
+    {{ end }}   
+  </ul>
+    </div>
+
+  </body>
+</html>

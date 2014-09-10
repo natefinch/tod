@@ -1,0 +1,22 @@
+{{ template "theme/chrome/head.html" . }}
+<body>
+
+{{ template "theme/chrome/sidebar.html" . }}
+
+    <div class="content container">
+<div class="post">
+  <h1>{{ .Title }}</h1>
+  {{if .Params.death}}
+    {{$death := .Params.death}}
+    {{range .Site.Pages}}
+       {{if eq .File.Name $death}}
+         <small class='masthead'>[Died in <a href="{{.Permalink}}">{{.LinkTitle}}</a>]</small>
+       {{end}}
+    {{end}} 
+  {{end}}
+  {{ .Content }}
+</div>
+</div>
+
+  </body>
+</html>
