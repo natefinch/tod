@@ -21,7 +21,7 @@ The party breakdown looks like this:
 | Player | Race/Class | Name|
 |:--------:|:-----:|:----:
 Nate| DM | DM 
-Matt| Human Druid| ? 
+Matt| Human Druid| {{% lnk tommy %}}
 Rose | Wood-elf Ranger | {{%lnk hazel%}}
 Jeff| Human Fighter | {{% lnk krogan %}}
 SteveF | Halfling Rogue | {{% lnk welby %}} 
