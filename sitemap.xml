@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>http://npf.io/tod/locations/greenest/</loc>
+    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://npf.io/tod/locations/sword-coast/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -28,17 +33,7 @@
   </url>
   
   <url>
-    <loc>http://npf.io/tod/locations/greenest/</loc>
-    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://npf.io/tod/npcs/leosin/</loc>
-    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://npf.io/tod/npcs/linan/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,12 +43,12 @@
   </url>
   
   <url>
-    <loc>http://npf.io/tod/organizations/cult-of-the-dragon/</loc>
+    <loc>http://npf.io/tod/npcs/linan/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://npf.io/tod/pcs/grogh/</loc>
+    <loc>http://npf.io/tod/organizations/cult-of-the-dragon/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,7 +58,17 @@
   </url>
   
   <url>
+    <loc>http://npf.io/tod/pcs/grogh/</loc>
+    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://npf.io/tod/pcs/hazel/</loc>
+    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://npf.io/tod/pcs/tommy/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,12 +78,12 @@
   </url>
   
   <url>
-    <loc>http://npf.io/tod/pcs/welby/</loc>
+    <loc>http://npf.io/tod/pcs/laurence/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://npf.io/tod/pcs/laurence/</loc>
+    <loc>http://npf.io/tod/pcs/welby/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
