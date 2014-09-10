@@ -21,6 +21,10 @@ We will be using feats.
 
 Humans may take the variant abilities: +1 to two stats and a feat at first level.
 
+## Clarifications
+
+Forced movement does not provoke AoO (PHB p195).
+
 ## House Rules
 
 None, so far.

@@ -22,12 +22,12 @@ The party breakdown looks like this:
 |:--------:|:-----:|:----:
 Nate| DM | DM 
 Matt| Human Druid| ? 
-Rose | Wood-elf Ranger | ? 
+Rose | Wood-elf Ranger | {{%lnk hazel%}}
 Jeff| Human Fighter | {{% lnk krogan %}}
 SteveF | Halfling Rogue | {{% lnk welby %}} 
 SteveL | Half-Orc Barbarian | {{% lnk grogh %}}
 ChrisB | Human Wizard | {{%lnk bortels%}}
-ChrisY | Human Fighter | ?
+ChrisY | Human Fighter | {{%lnk laurence%}}
 
 Yes... even with 7 players, no one wanted to be the cleric.
 
