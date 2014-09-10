@@ -58,22 +58,22 @@
   </url>
   
   <url>
-    <loc>http://npf.io/tod/pcs/grogh/</loc>
-    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://npf.io/tod/pcs/hazel/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://npf.io/tod/pcs/tommy/</loc>
+    <loc>http://npf.io/tod/pcs/grogh/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://npf.io/tod/pcs/krogan/</loc>
+    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://npf.io/tod/pcs/tommy/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
